@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amateurmind" alt="amateurmind" /></a> </p>
 
+- 🔭 I’m currently working on [a MERN Stack project](https://github.com/AmateurMind/ayursutra-panchkarma)
+
 - 📫 How to reach me **suhail17mohammad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
