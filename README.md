@@ -1,135 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mohammad Suhail</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • Robotics Enthusiast</h3>
+# 💫 About Me:
+Full-stack developer building MERN apps with AI and automation.<br>SIH 2025 winner.<br>I like clean UI, solid APIs, and systems that scale.<br>Currently exploring AI agents and robotics.
 
-<p align="center">
-MERN • AI • Automation • Embedded Systems
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-suhail-4713912b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhail17mohammad@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmateurMind&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmateurMind&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmateurMind&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmateurMind&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
 
-- 🎓 B.E. Electronics & Telecommunication (Expected 2027) | **SGPA: 8.5**
-- 🔭 Building **AI-powered full-stack platforms**
-- 🤖 Hands-on with **automation, robotics & embedded systems**
-- 🧠 Interested in **AI agents, system design & scalable products**
-- 📫 **suhail17mohammad@gmail.com**
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 CampusBuddy – AI Placement & Internship Portal
-- MERN-based platform for students, colleges & recruiters
-- AI Skill Gap Analyzer using **Google Gemini**
-- Workflow automation via **n8n + Telegram Bot**
-- Secure RBAC backend
-
-**Tech:** React, TypeScript, Node.js, Express, MongoDB Atlas, Gemini AI, OpenRouter, n8n, Tailwind
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AmateurMind&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌿 AyurSutra – Panchkarma & Wellness Platform
-- Multi-role system (patients, doctors, admins)
-- Real-time appointment slot blocking
-- JWT-based authentication
-
-🔗 https://github.com/AmateurMind/ayursutra-panchkarma
-
----
-
-### 😐 Facial Emotion Detection & Patient Monitoring
-- Real-time webcam emotion detection
-- Emotion trend visualization & Excel reporting
-
-**Tech:** Python, Streamlit, DeepFace, OpenCV
-
----
-
-### 🩺 AI Doctor – Multimodal Medical Assistant
-- Voice, image & text-based AI consultations
-- Whisper STT + LLM reasoning with Gradio UI
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/>
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="28"/>
-</p>
-
-### 🧠 Backend & Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="28"/>
-</p>
-
-### 🤖 AI / Automation
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="28"/>
-<img src="https://avatars.githubusercontent.com/u/17307554?s=200&v=4" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="28"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="28"/>
-</p>
-
-### 🤖 Embedded & Robotics
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="28"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ROS_logo.svg" width="28"/>
-<img src="https://gazebosim.org/docs/latest/_images/gazebo_horz_pos.svg" width="28"/>
-</p>
-
----
-
-## 📊 GitHub Stats (Best Combo ✅)
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=amateurmind&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateurmind&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amateurmind&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect
-
-- 📧 **suhail17mohammad@gmail.com**
-- 💼 Open to **Internships | Full-Stack | AI Projects**
-- 🌐 https://github.com/AmateurMind
-
-⭐ If you like my work, consider starring my repositories!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
