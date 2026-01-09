@@ -58,15 +58,19 @@ I like clean UI, solid APIs, and systems that scale. Currently exploring AI agen
 </p>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AmateurMind&theme=nightowl" />
-</p>
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=AmateurMind&theme=nightowl" />
+    </td>
+    <td width="55%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmateurMind&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmateurMind&theme=github-dark&hide_border=true" />
-</p>
 
 <h2 align="center">🌐 Socials</h2>
 
