@@ -1,4 +1,4 @@
-# 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
 <p align="center">
 Full-stack developer building MERN apps with AI and automation.<br>
@@ -14,8 +14,17 @@ Currently exploring AI agents and robotics.
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-suhail-4713912b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhail17mohammad@gmail.com) 
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammad-suhail-4713912b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suhail17mohammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmateurMind&theme=vue-dark&no-frame=true&margin-w=4)
