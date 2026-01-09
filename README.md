@@ -2,8 +2,9 @@
 Full-stack developer building MERN apps with AI and automation.<br>SIH 2025 winner.<br>I like clean UI, solid APIs, and systems that scale.<br>Currently exploring AI agents and robotics.
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AmateurMind&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=AmateurMind&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-suhail-4713912b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhail17mohammad@gmail.com) 
