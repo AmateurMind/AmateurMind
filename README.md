@@ -1,5 +1,6 @@
+# 💫 About Me
+
 <p align="center">
-# 💫 About Me:
 Full-stack developer building MERN apps with AI and automation.<br>
 SIH 2025 winner.<br>
 I like clean UI, solid APIs, and systems that scale.<br>
@@ -11,9 +12,6 @@ Currently exploring AI agents and robotics.
   <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmateurMind&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 
 ## 🌐 Socials:
