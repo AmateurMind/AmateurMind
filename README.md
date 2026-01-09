@@ -1,27 +1,12 @@
 <h2 align="center">💫 About Me</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
 Full-stack developer building MERN apps with AI and automation.<br>
 SIH 2025 winner.<br>
 I like clean UI, solid APIs, and systems that scale. Currently exploring AI agents and robotics.
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-
-
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-suhail-4713912b3">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suhail17mohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -90,4 +75,13 @@ I like clean UI, solid APIs, and systems that scale. Currently exploring AI agen
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmateurMind&theme=github-dark&hide_border=true" />
 </p>
+<h2 align="center">🌐 Socials</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/mohammad-suhail-4713912b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suhail17mohammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
