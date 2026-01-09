@@ -27,8 +27,9 @@ Currently exploring AI agents and robotics.
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmateurMind&hide_border=true&theme=nightowl" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmateurMind&theme=github-dark&hide_border=true" />
 </p>
+
 
 
 <h2 align="center">💻 Tech Stack</h2>
