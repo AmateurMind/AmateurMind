@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Suhail</h1>
-<h3 align="center">
-Full Stack Developer • AI Engineer • Robotics Enthusiast  
-</h3>
+<h3 align="center">Full Stack Developer • AI Engineer • Robotics Enthusiast</h3>
 
 <p align="center">
-🚀 SIH 2025 Winner | MERN • AI • Automation • Embedded Systems
+MERN • AI • Automation • Embedded Systems
 </p>
 
 <p align="center">
@@ -15,121 +13,111 @@ Full Stack Developer • AI Engineer • Robotics Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.E. Electronics & Telecommunication** (Expected 2027) | SGPA: **8.5**
-- 🏆 **Winner – Smart India Hackathon 2025 (National Level)**
-- 🔭 Building **AI-powered, production-grade platforms**
-- 🤖 Experience in **Robotics, Automation & Embedded Systems**
-- 🧠 Strong interest in **System Design, AI Agents & Scalable Web Apps**
-- 📫 Reach me at **suhail17mohammad@gmail.com**
+- 🎓 B.E. Electronics & Telecommunication (Expected 2027) | **SGPA: 8.5**
+- 🔭 Building **AI-powered full-stack platforms**
+- 🤖 Hands-on with **automation, robotics & embedded systems**
+- 🧠 Interested in **AI agents, system design & scalable products**
+- 📫 **suhail17mohammad@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 CampusBuddy – AI Placement & Internship Portal *(SIH 2025 Winner)*
-**MERN • AI • Automation • RBAC**
+### 🧠 CampusBuddy – AI Placement & Internship Portal
+- MERN-based platform for students, colleges & recruiters
+- AI Skill Gap Analyzer using **Google Gemini**
+- Workflow automation via **n8n + Telegram Bot**
+- Secure RBAC backend
 
-- Built an end-to-end placement platform connecting **students, colleges & recruiters**
-- Implemented **AI Skill Gap Analyzer** using Google Gemini
-- Automated recruiter workflows via **n8n + Telegram Bot**
-- Designed secure **RBAC backend** with scalable APIs
-
-**Tech Stack:**  
-React.js, TypeScript, Node.js, Express, MongoDB Atlas, Gemini AI,  
-OpenRouter, n8n, Tailwind CSS, Cloudinary, Clerk Auth
+**Tech:** React, TypeScript, Node.js, Express, MongoDB Atlas, Gemini AI, OpenRouter, n8n, Tailwind
 
 ---
 
 ### 🌿 AyurSutra – Panchkarma & Wellness Platform
-**MERN • Auth • Real-time Scheduling**
-
 - Multi-role system (patients, doctors, admins)
 - Real-time appointment slot blocking
-- Secure JWT authentication & REST APIs
-- Deployed for production use
-
-**Tech Stack:**  
-React + Vite, Node.js, Express, MongoDB, Mongoose, JWT, Tailwind CSS
+- JWT-based authentication
 
 🔗 https://github.com/AmateurMind/ayursutra-panchkarma
 
 ---
 
 ### 😐 Facial Emotion Detection & Patient Monitoring
-**Computer Vision • AI Analytics**
-
 - Real-time webcam emotion detection
-- Emotion trend visualization & Excel reports
-- Built for healthcare monitoring use-cases
+- Emotion trend visualization & Excel reporting
 
-**Tech Stack:**  
-Python, Streamlit, DeepFace, OpenCV, Pandas, Plotly
+**Tech:** Python, Streamlit, DeepFace, OpenCV
 
 ---
 
 ### 🩺 AI Doctor – Multimodal Medical Assistant
-**LLMs • Voice • Vision**
-
-- Supports **text, voice & image** inputs
-- Whisper-based speech-to-text
-- LLM reasoning with real-time Gradio UI
-
-**Tech Stack:**  
-Python, Gradio, Whisper, Groq API, ElevenLabs
+- Voice, image & text-based AI consultations
+- Whisper STT + LLM reasoning with Gradio UI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
-JavaScript, TypeScript, Python, Java, C/C++
+### 💻 Programming
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/>
+</p>
 
-### 🌐 Web & Frameworks
-MERN Stack, React.js, Vite, Tailwind CSS, Three.js
+### 🌐 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="28"/>
+</p>
 
-### 🗄️ Databases & Backend
-MongoDB, MongoDB Atlas, MySQL, SQL, Firebase  
-REST APIs, JWT, RBAC, Mongoose
+### 🧠 Backend & Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="28"/>
+</p>
 
-### 🤖 AI / ML & LLMs
-Google Gemini AI, OpenAI API, OpenRouter, Groq  
-DeepFace, Whisper, Prompt Engineering  
-Computer Vision (OpenCV)
+### 🤖 AI / Automation
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="28"/>
+<img src="https://avatars.githubusercontent.com/u/17307554?s=200&v=4" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="28"/>
+</p>
 
-### ⚙️ Automation & Deployment
-n8n, Telegram Bot API  
-Render, Netlify, Vercel, Cloudinary  
-CI/CD Basics, Env Configuration
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="28"/>
+</p>
 
-### 🧰 Developer Tools
-Git, GitHub, GitHub Actions (basic)  
-VS Code, Postman, Figma, Framer
-
-### 🤖 Robotics & Embedded
-Arduino, ESP32, ROS2, Gazebo  
-IR & Ultrasonic Sensors, Motor Drivers  
-Ubuntu 22.04 (Linux)
+### 🤖 Embedded & Robotics
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="28"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ROS_logo.svg" width="28"/>
+<img src="https://gazebosim.org/docs/latest/_images/gazebo_horz_pos.svg" width="28"/>
+</p>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Winner – Smart India Hackathon 2025 (National Level)**  
-  ₹1.5 Lakh award | Selected among ~500 teams
-
-- 🧠 **Stage 2 Qualifier – e-Yantra Robotics Competition (eYRC)**  
-  Top 100 teams nationally | ₹30,000 hardware kit
-
-- 🥈 **Runner-Up – Innoverse Hackathon (MMCOE)**  
-- 🔟 **Top 10 Teams – SIH 2024 (College Level)**
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Best Combo ✅)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amateurmind&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateurmind&layout=compact&theme=tokyonight" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=amateurmind&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateurmind&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -138,10 +126,10 @@ Ubuntu 22.04 (Linux)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-- 📧 Email: **suhail17mohammad@gmail.com**
-- 💼 Open to **Internships | Full-Stack | AI | Robotics Projects**
-- 🌐 GitHub: https://github.com/AmateurMind
+- 📧 **suhail17mohammad@gmail.com**
+- 💼 Open to **Internships | Full-Stack | AI Projects**
+- 🌐 https://github.com/AmateurMind
 
-⭐ *If you like my work, consider starring my repositories!*
+⭐ If you like my work, consider starring my repositories!
