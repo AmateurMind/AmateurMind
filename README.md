@@ -1,23 +1,147 @@
-<h1 align="center">Hello 👋, I'm Mohammad Suhail</h1>
-<h3 align="center">20,engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Suhail</h1>
+<h3 align="center">
+Full Stack Developer • AI Engineer • Robotics Enthusiast  
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20views&color=0e75b6&style=flat" alt="amateurmind" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amateurmind" alt="amateurmind" /></a> </p>
-
-- 🔭 I’m currently working on [Ayursutra-Panchkarma(MERN STACK)](https://github.com/AmateurMind/ayursutra-panchkarma)
-
-- 📫 How to reach me **suhail17mohammad@gmail.com**
-
-<p align="left">
+<p align="center">
+🚀 SIH 2025 Winner | MERN • AI • Automation • Embedded Systems
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amateurmind&show_icons=true&locale=en&layout=compact" alt="amateurmind" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amateurmind&show_icons=true&locale=en" alt="amateurmind" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amateurmind&" alt="amateurmind" /></p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🎓 **B.E. Electronics & Telecommunication** (Expected 2027) | SGPA: **8.5**
+- 🏆 **Winner – Smart India Hackathon 2025 (National Level)**
+- 🔭 Building **AI-powered, production-grade platforms**
+- 🤖 Experience in **Robotics, Automation & Embedded Systems**
+- 🧠 Strong interest in **System Design, AI Agents & Scalable Web Apps**
+- 📫 Reach me at **suhail17mohammad@gmail.com**
 
+---
+
+## 🚀 Featured Projects
+
+### 🧠 CampusBuddy – AI Placement & Internship Portal *(SIH 2025 Winner)*
+**MERN • AI • Automation • RBAC**
+
+- Built an end-to-end placement platform connecting **students, colleges & recruiters**
+- Implemented **AI Skill Gap Analyzer** using Google Gemini
+- Automated recruiter workflows via **n8n + Telegram Bot**
+- Designed secure **RBAC backend** with scalable APIs
+
+**Tech Stack:**  
+React.js, TypeScript, Node.js, Express, MongoDB Atlas, Gemini AI,  
+OpenRouter, n8n, Tailwind CSS, Cloudinary, Clerk Auth
+
+---
+
+### 🌿 AyurSutra – Panchkarma & Wellness Platform
+**MERN • Auth • Real-time Scheduling**
+
+- Multi-role system (patients, doctors, admins)
+- Real-time appointment slot blocking
+- Secure JWT authentication & REST APIs
+- Deployed for production use
+
+**Tech Stack:**  
+React + Vite, Node.js, Express, MongoDB, Mongoose, JWT, Tailwind CSS
+
+🔗 https://github.com/AmateurMind/ayursutra-panchkarma
+
+---
+
+### 😐 Facial Emotion Detection & Patient Monitoring
+**Computer Vision • AI Analytics**
+
+- Real-time webcam emotion detection
+- Emotion trend visualization & Excel reports
+- Built for healthcare monitoring use-cases
+
+**Tech Stack:**  
+Python, Streamlit, DeepFace, OpenCV, Pandas, Plotly
+
+---
+
+### 🩺 AI Doctor – Multimodal Medical Assistant
+**LLMs • Voice • Vision**
+
+- Supports **text, voice & image** inputs
+- Whisper-based speech-to-text
+- LLM reasoning with real-time Gradio UI
+
+**Tech Stack:**  
+Python, Gradio, Whisper, Groq API, ElevenLabs
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+JavaScript, TypeScript, Python, Java, C/C++
+
+### 🌐 Web & Frameworks
+MERN Stack, React.js, Vite, Tailwind CSS, Three.js
+
+### 🗄️ Databases & Backend
+MongoDB, MongoDB Atlas, MySQL, SQL, Firebase  
+REST APIs, JWT, RBAC, Mongoose
+
+### 🤖 AI / ML & LLMs
+Google Gemini AI, OpenAI API, OpenRouter, Groq  
+DeepFace, Whisper, Prompt Engineering  
+Computer Vision (OpenCV)
+
+### ⚙️ Automation & Deployment
+n8n, Telegram Bot API  
+Render, Netlify, Vercel, Cloudinary  
+CI/CD Basics, Env Configuration
+
+### 🧰 Developer Tools
+Git, GitHub, GitHub Actions (basic)  
+VS Code, Postman, Figma, Framer
+
+### 🤖 Robotics & Embedded
+Arduino, ESP32, ROS2, Gazebo  
+IR & Ultrasonic Sensors, Motor Drivers  
+Ubuntu 22.04 (Linux)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner – Smart India Hackathon 2025 (National Level)**  
+  ₹1.5 Lakh award | Selected among ~500 teams
+
+- 🧠 **Stage 2 Qualifier – e-Yantra Robotics Competition (eYRC)**  
+  Top 100 teams nationally | ₹30,000 hardware kit
+
+- 🥈 **Runner-Up – Innoverse Hackathon (MMCOE)**  
+- 🔟 **Top 10 Teams – SIH 2024 (College Level)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amateurmind&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateurmind&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amateurmind&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: **suhail17mohammad@gmail.com**
+- 💼 Open to **Internships | Full-Stack | AI | Robotics Projects**
+- 🌐 GitHub: https://github.com/AmateurMind
+
+⭐ *If you like my work, consider starring my repositories!*
