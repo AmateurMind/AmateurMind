@@ -27,9 +27,7 @@ Currently exploring AI agents and robotics.
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmateurMind&theme=flat&no-frame=true&margin-w=8" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateurmind)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="center">💻 Tech Stack</h2>
