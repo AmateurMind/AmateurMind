@@ -3,8 +3,7 @@
 <p align="center">
 Full-stack developer building MERN apps with AI and automation.<br>
 SIH 2025 winner.<br>
-I like clean UI, solid APIs, and systems that scale.<br>
-Currently exploring AI agents and robotics.
+I like clean UI, solid APIs, and systems that scale. Currently exploring AI agents and robotics.
 </p>
 
 
