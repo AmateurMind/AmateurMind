@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Full-stack MERN developer building production-ready apps • SIH 2025 winner • Focused on clean UI, solid APIs, and scalable systems
+Full-stack developer building production-ready apps • SIH 2025 winner • Focused on clean UI, solid APIs, and scalable systems
 </p>
 
 
