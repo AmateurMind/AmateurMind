@@ -7,6 +7,12 @@
 Full-stack developer building production-ready apps • SIH 2025 winner • Focused on clean UI, solid APIs, and scalable systems
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1SigbXYMyi0KbClNnEO33H_7m46vmj1LF/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-1a73e8?style=plastic&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -22,6 +28,7 @@ Full-stack developer building production-ready apps • SIH 2025 winner • Focu
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=plastic&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white" />
 </p>
 
@@ -47,6 +54,12 @@ Full-stack developer building production-ready apps • SIH 2025 winner • Focu
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-121D33.svg?style=plastic&logo=blockchaindotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822.svg?style=plastic&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorand-000000.svg?style=plastic&logo=algorand&logoColor=white" />
 </p>
 
 <p align="center">
