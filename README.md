@@ -3,6 +3,22 @@
   <img src="https://komarev.com/ghpvc/?username=amateurmind&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+
+<p align="center">
+  <a href="https://suhail-dev.me">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohammad-suhail-4713912b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Suhail17dev">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:suhail17mohammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
 Full-stack developer building production-ready apps • SIH 2025 winner • Focused on clean UI, solid APIs, and scalable systems
 </p>
@@ -75,7 +91,7 @@ Full-stack developer building production-ready apps • SIH 2025 winner • Focu
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=AmateurMind&theme=nightowl" />
+        <img src="https://streak-stats.demolab.com/?user=AmateurMind&theme=nightowl" />  
     </td>
     <td width="55%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmateurMind&theme=github-dark&hide_border=true" />
@@ -84,13 +100,4 @@ Full-stack developer building production-ready apps • SIH 2025 winner • Focu
 </table>
 
 
-<h2 align="center">🌐 Socials</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-suhail-4713912b3">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suhail17mohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
